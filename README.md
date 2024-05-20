@@ -1,25 +1,26 @@
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:B2CCFF,100:6799FF&height=250&section=header&text=🏠ZIP_POP&desc=FIIIIIVE&descSize=20&descAlign=68&descAlignY=70&fontSize=100&animation=fadeIn&fontColor=ffff)
+
+> **[플레이 데이터] 한화시스템 BEYOND SW캠프 / 🖐🏻 Team : FIIIIIVE 🖐🏻**
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:6799FF,100:4374D9&height=250&section=header&text=?룧ZIP_POP&desc=FIIIIIVE&descSize=20&descAlign=68&descAlignY=70&fontSize=100&animation=fadeIn&fontColor=ffff)
-
-> **[?뚮젅???곗씠?? ?쒗솕?쒖뒪??BEYOND SW罹좏봽 / ?뼆?뤋 Team : FIIIIIVE ?뼆?뤋**
-
+## 👩🏻‍💻‍ 팀원
 <br>
 
-## ?뫆?뤋?랅윊삘????
-
+<div align="center"> 
 | Team Leader | Backend | Backend | Backend | Backend |
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="./img/sungjoon.png" width=100, height=100>|<img src="./img/hyejeong.png" width=100, height=100>|<img src="./img/jongsung.png" width=100, height=100>|<img src="./img/nakyung.png" width=100, height=100>|<img src="./img/suyeon.jpg" width=100, height=100>|
-|**諛뺤꽦以**| **媛뺥삙??*| **諛뺤쥌??*| **?〓굹寃?*| **?뺤닔??*|
+|**박성준**| **강혜정**| **박종성**| **송나경**| **정수연**|
+</div>
 
-
-### ?뫅?뤋?랅윆??꾨줈?앺듃 湲곕낯 ?뚭컻
+### 👨🏻‍🏫 프로젝트 기본 소개
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;理쒓렐?먮뒗 ?붿옣?덉씠???섎쪟瑜??섏뼱 ?쒕씪留? ?뚯븙, 寃뚯엫, ?곹솕, ?좊땲硫붿씠?????곴??놁씠 媛??낃퀎?먯꽌 ?앹뾽?ㅽ넗?대? ?쒖슜?섍퀬 ?덈떎. ?앹뾽?ㅽ넗?댁뿉?쒕뒗 湲곗〈 留ㅼ옣怨쇱쓽 李⑤퀎?먯쓣 ?먭린 ?꾪빐 ?쒖젙??援우쫰瑜??먮ℓ?섍퀬, ?대? 援щℓ?섍린 ?꾪빐 ?μ떆媛??湲고븯???꾩긽??湲됱쬆?섎뒗 異붿꽭??
-&nbsp;&nbsp;&nbsp;&nbsp;**?룧ZIP_POP**? ?ъ쟾?덉빟???듯빐 湲곗〈???앹뾽?ㅽ넗???湲??쒖뒪?쒖쓣 媛쒖꽑?섍퀬 諛ㅼ깦 ?湲??먮뒗 ?μ떆媛??湲곕줈 ?명븳 怨좉컼怨??대떦 ?앹뾽 二쇰? 嫄곗＜誘쇱쓽 遺덊렪???댁냼?섎뒗 ?쒕퉬?ㅻ? ?쒓났?쒕떎. 留ㅼ옣 ?낆꽦???깃났?덉쓬?먮룄 ?ш퀬 ?뚯쭊 ?깆쓽 ?댁쑀濡??먰븯??臾쇳뭹??援ы븯吏 紐삵븯???곹솴??諛⑹??????덈룄濡??ъ쟾?덉빟?먯뿉 ?쒗빐 援우쫰瑜??좉뎄留ㅽ븷 ???덈뒗 ?쒕퉬???먰븳 ?쒓났?쒕떎. ?덉빟 湲곕뒫 ?놁씠 ?뺣낫 ?쒓났??紐⑹쟻?쇰줈 ?섎뒗 ?좎궗 ?ъ씠?몄? ?щ━, **?룧ZIP_POP**? ?섎굹???ъ씠?몄뿉???앹뾽?ㅽ넗?댁? 愿?⑤맂 ?뺣낫 ?뚯븙肉먮쭔 ?꾨땲???덉빟 諛?援우쫰 援щℓ源뚯? 媛?ν븯?ㅻ뒗 李⑤퀎?먯씠 ?덈떎.
+&nbsp;&nbsp;&nbsp;&nbsp; 최근에는 화장품이나 의류를 넘어 드라마, 음악, 게임, 영화, 애니메이션 등 상관없이 각 업계에서 팝업스토어를 활용하고 있다. 팝업스토어에서는 기존 매장과의 차별점을 두기 위해 한정판 굿즈를 판매하고, 이를 구매하기 위해 장시간 대기하는 현상이 급증하는 추세다.  
+&nbsp;&nbsp;&nbsp;&nbsp; **🏠ZIP_POP**은 사전예약을 통해 기존의 팝업스토어 대기 시스템을 개선하고 밤샘 대기 또는 장시간 대기로 인한 고객과 해당 팝업 주변 거주민의 불편을 해소하는 서비스를 제공한다. 매장 입성에 성공했음에도 재고 소진 등의 이유로 원하는 물품을 구하지 못하는 상황을 방지할 수 있도록 사전예약자에 한해 굿즈를 선구매할 수 있는 서비스 또한 제공한다. 예약 기능 없이 정보 제공을 목적으로 하는 유사 사이트와 달리, **🏠ZIP_POP**은 하나의 사이트에서 팝업스토어와 관련된 정보 파악뿐만 아니라 예약 및 굿즈 구매까지 가능하다는 차별점이 있다.
 
 <br>
 
@@ -27,12 +28,12 @@
 ---
 
 
-### ?뮕 ?꾨줈?앺듃 諛곌꼍
+### 💡 프로젝트 배경
 <br>
 
 <div align="center">
 <figure class="half">
- <img src="./img/湲곗궗1.png" width=300, height=250>
+ <img src="./img/기사1.png" width=500, height=250>
 </figure>
 <br/>
 </div>
@@ -40,49 +41,49 @@
 
 <br>
 
-- ??숈썝???쒖??좎뵪(30)???멸린 ?좏뒠踰?'移⑥갑留????앹뾽?ㅽ넗?댁뿉 諛⑸Ц?섍린 ?꾪빐 移섏뿴???덉빟 寃쎌웳???レ뿀?? 移⑥갑留???而ㅻ??덊떚?먯꽌 ?덉빟 ?곷룄 ?꾩닔諛쏆븯吏留?"?멸린 ?곹뭹??紐⑤몢 ?덉젅???꾩돩???꾩묠 ?쇱컢 ?ㅼ떆 諛⑸Ц??蹂쇨퉴 ?앷컖 以묒씠???쇨퀬 留먰뻽??
+- 대학원생 한지선씨(30)는 인기 유튜버 '침착맨'의 팝업스토어에 방문하기 위해 치열한 예약 경쟁을 뚫었다. 침착맨 팬 커뮤니티에서 예약 팁도 전수받았지만 "인기 상품이 모두 품절돼 아쉬워 아침 일찍 다시 방문해 볼까 생각 중이다"라고 말했다.
 
 <br>
 
 <div align="center">
 <figure class="half">
-<img src="./img/湲곗궗2.png" width=300, height=250>
+<img src="./img/기사2.png" width=400, height=250>
 </figure>
 <br/>
 </div>
 
 <br>
 
-- ?뷀쁽??쒖슱? 2021??2??媛쒖젏 ??2023??11??以묒닚源뚯? ??460?뚯쓽 ?앹뾽?ㅽ넗?대? ?댁쁺?덈떎. ?댄?????媛쒓섦濡??덈줈???앹뾽?ㅽ넗?대? ???덉씠?? ?섏엫??留ㅼ옣?숈쓽 ?대?吏????앹뾽?ㅽ넗?닿? ?섑븳?뺥뙋 ?꾨Ц 留ㅼ옣?숈쑝濡?吏꾪솕?덈떎怨?蹂몃떎. ?댁쁺 湲곌컙 ?쒗븳?대씪???앹뾽?ㅽ넗?댁쓽 ?뱀쭠???섏씠???꾨땲硫?紐??곕떎?숇뒗 ?몄떇??二쇨쾶 ?섏뿀??
+- 더현대서울은 2021년 2월 개점 후 2023년 11월 중순까지 약 460회의 팝업스토어를 운영했다. 이틀에 한 개꼴로 새로운 팝업스토어를 연 셈이다. ‘임시 매장’의 이미지였던 팝업스토어가 ‘한정판 전문 매장’으로 진화했다고 본다. 운영 기간 제한이라는 팝업스토어의 특징이 ‘이때 아니면 못 산다’는 인식을 주게 되었다.
 
 <br>
 
 
 <details>
-  <summary>異쒖쿂</summary>
-- 湲곗궗1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]
-- 湲곗궗2 : [https://www.donga.com/news/Economy/article/all/20231201/122446644/1]
+  <summary>출처</summary>
+- 기사1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]  
+- 기사2 : [https://www.donga.com/news/Economy/article/all/20231201/122446644/1]
 </details>
 
 ---
 
 
-### ?뮲 湲곗닠 ?ㅽ깮
+### 💻 기술 스택
 
 
 <br>
 
-#### &nbsp;?[ DB ]
+#### &nbsp;　[ DB ]
 
 &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
 
-#### &nbsp;?[ Backend ]
+#### &nbsp;　[ Backend ]
 
 
-#### &nbsp;?[ Frontend ]
+#### &nbsp;　[ Frontend ]
 
 
-#### &nbsp;?[ CI/CD ]
+#### &nbsp;　[ CI/CD ]
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&color=black"></a></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white&color=ffa500"></a></a>
