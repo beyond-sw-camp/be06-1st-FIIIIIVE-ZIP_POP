@@ -9,12 +9,77 @@
 ## 👩🏻‍💻‍ 팀원
 <br>
 
-<div align="center"> 
-| Team Leader | Backend | Backend | Backend | Backend |  
-|:-:|:-:|:-:|:-:|:-:|  
-|<img src="./img/sungjoon.png" width=100, height=100>|<img src="./img/hyejeong.png" width=100, height=100>|<img src="./img/jongsung.png" width=100, height=100>|<img src="./img/nakyung.png" width=100, height=100>|<img src="./img/suyeon.jpg" width=100, height=100>|  
-|**박성준**| **강혜정**| **박종성**| **송나경**| **정수연**|  
+<div align="center">
+<table>
+ <tr>
+        <td align="center">
+            <a>
+            </a>
+	<img src="./img/sungjoon.png" width=100, height=100>
+ </td>
+        <td align="center">
+            <a>
+	<img src="./img/hyejeong.png" width=100, height=100>
+	</a>
+        </td>
+        <td align="center">
+            <a>
+	<img src="./img/jongsung.png" width=100, height=100>
+ 	</a>
+        </td>
+        <td align="center">
+            <a>
+	<img src="./img/nakyung.png" width=100, height=100>
+	</a>
+        </td>
+        <td align="center">
+            <a>
+	<img src="./img/suyeon.jpg" width=100, height=100>
+ 	</a>
+        </td>
+    </tr>
+    <tr>
+ <td align="center">
+            <b>박성준</b>
+        </td>
+        <td align="center">
+            <b>강혜정</b>
+        </td>
+        <td align="center">
+            <b>박종성</b>
+        </td>
+        <td align="center">
+            <b>송나경</b>
+        </td>
+        <td align="center">
+            <b>정수연</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"">
+            <b>Team Leader</b>
+        </td>
+        <td align="center">
+            <b>Backend</b>
+        </td>
+        <td align="center">
+            <b>Backend</b>
+        </td>
+        <td align="center">
+            <b>Backend</b>
+        </td>
+        <td align="center">
+            <b>Backend</b>
+        </td>
+    </tr>
+</table>
 </div>
+<br>
+
+
+---
+<br>
+
 
 ### 👨🏻‍🏫 프로젝트 기본 소개
 <br>
@@ -61,9 +126,12 @@
 
 <details>
   <summary>출처</summary>
-- 기사1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]&nbsp;&nbsp;&nbsp;&nbsp;  
+- 기사1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]  
+
 - 기사2 : [https://www.donga.com/news/Economy/article/all/20231201/122446644/1]
 </details>
+<br>
+
 
 ---
 
