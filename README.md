@@ -1,6 +1,6 @@
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:B2CCFF,100:6799FF&height=250&section=header&text=🏠ZIP_POP&desc=FIIIIIVE&descSize=20&descAlign=68&descAlignY=70&fontSize=100&animation=fadeIn&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:B2CCFF,100:D1B2FF&height=250&section=header&text=🏠ZIP_POP&desc=FIIIIIVE&descSize=20&descAlign=68&descAlignY=70&fontSize=100&animation=fadeIn&fontColor=ffff)
 
 > **[플레이 데이터] 한화시스템 BEYOND SW캠프 / 🖐🏻 Team : FIIIIIVE 🖐🏻**
 
@@ -10,10 +10,10 @@
 <br>
 
 <div align="center"> 
-| Team Leader | Backend | Backend | Backend | Backend |
-|:-:|:-:|:-:|:-:|:-:|
-|<img src="./img/sungjoon.png" width=100, height=100>|<img src="./img/hyejeong.png" width=100, height=100>|<img src="./img/jongsung.png" width=100, height=100>|<img src="./img/nakyung.png" width=100, height=100>|<img src="./img/suyeon.jpg" width=100, height=100>|
-|**박성준**| **강혜정**| **박종성**| **송나경**| **정수연**|
+| Team Leader | Backend | Backend | Backend | Backend |  
+|:-:|:-:|:-:|:-:|:-:|  
+|<img src="./img/sungjoon.png" width=100, height=100>|<img src="./img/hyejeong.png" width=100, height=100>|<img src="./img/jongsung.png" width=100, height=100>|<img src="./img/nakyung.png" width=100, height=100>|<img src="./img/suyeon.jpg" width=100, height=100>|  
+|**박성준**| **강혜정**| **박종성**| **송나경**| **정수연**|  
 </div>
 
 ### 👨🏻‍🏫 프로젝트 기본 소개
@@ -61,7 +61,7 @@
 
 <details>
   <summary>출처</summary>
-- 기사1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]  
+- 기사1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]&nbsp;&nbsp;&nbsp;&nbsp;  
 - 기사2 : [https://www.donga.com/news/Economy/article/all/20231201/122446644/1]
 </details>
 
