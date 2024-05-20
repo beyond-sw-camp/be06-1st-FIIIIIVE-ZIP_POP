@@ -125,7 +125,8 @@
 
 
 <details>
-  <summary>출처</summary>
+  <summary>출처</summary>  
+
 - 기사1 : [https://news.mt.co.kr/mtview.php?no=2024051609573785999]  
 
 - 기사2 : [https://www.donga.com/news/Economy/article/all/20231201/122446644/1]
