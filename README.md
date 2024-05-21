@@ -143,7 +143,7 @@
 <br>
 <div align="center">
 <figure class="half">
-<img src="./img/systemarch.png">
+<img src="./img/systemarch.PNG">
 </figure>
 <br/>
 </div>
