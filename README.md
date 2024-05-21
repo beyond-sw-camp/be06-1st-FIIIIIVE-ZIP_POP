@@ -98,7 +98,7 @@
 
 <div align="center">
 <figure class="half">
- <img src="./img/기사1.png" width=500, height=250>
+ <img src="./img/기사1.png" width=500, height=310>
 </figure>
 <br/>
 </div>
@@ -112,7 +112,7 @@
 
 <div align="center">
 <figure class="half">
-<img src="./img/기사2.png" width=400, height=250>
+<img src="./img/기사2.png" width=420, height=300>
 </figure>
 <br/>
 </div>
@@ -131,6 +131,38 @@
 
 - 기사2 : [https://www.donga.com/news/Economy/article/all/20231201/122446644/1]
 </details>
+<br>
+
+
+
+---
+
+
+### 📌 시스템 아키텍처
+
+<br>
+<div align="center">
+<figure class="half">
+<img src="./img/systemarch.png">
+</figure>
+<br/>
+</div>
+
+<br>
+
+---
+
+
+### ⚙ ERD
+
+<br>
+<div align="center">
+<figure class="half">
+<img src="./img/erd.png">
+</figure>
+<br/>
+</div>
+
 <br>
 
 
