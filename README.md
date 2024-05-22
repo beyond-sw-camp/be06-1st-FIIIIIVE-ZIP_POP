@@ -208,6 +208,7 @@
 </div>
 
 <br>
+<br>
 
 - 인덱스 적용
 <div align="center">
@@ -218,6 +219,7 @@
 </div>
 
 <br>
+<br>
 
 - 스토어 프로시저 적용
 <div align="center">
@@ -226,6 +228,10 @@
 </figure>
 <br/>
 </div>
+
+<br>
+<br>
+
 <details>
   <summary>고객 회원</summary>  
 <div align="center">
@@ -234,7 +240,9 @@
 </figure>
 <br/>
 </div>
+- 회원 가입 시 ID, 패스워드, 이름을 필수로 입력해야 한다. (주소, 휴대전화번호, e-mail는 선택사항)
 </details>
+<br>
 <br>
 <details>
   <summary>기업 회원</summary>  
@@ -244,7 +252,9 @@
 </figure>
 <br/>
 </div>
+- 회원 가입 시 ID, 패스워드, 이름을 필수로 입력해야 하고, 기업 email인증을 해야 한다.
 </details>
+<br>
 <br>
 <details>
   <summary>팝업스토어</summary>  
@@ -254,7 +264,10 @@
 </figure>
 <br/>
 </div>
+- 팝업스토어 등록 시 팝업스토어의 이름, 진행 장소, 진행 날짜, 사전 예매 인원수, 상세페이지, 배너를 기입한다.<br>
+-  상세페이지와 배너는 이미지 파일로 업로드 가능하다. 
 </details>
+<br>
 <br>
 <details>
   <summary>팝업스토어 굿즈</summary>  
@@ -264,22 +277,48 @@
 </figure>
 <br/>
 </div>
+- 굿즈를 등록할 때 굿즈의 이름과 가격, 상세 내용, 사진을 기입한다.<br>
+- 재고 굿즈 등록의 경우 굿즈의 수량을 추가로 등록해야 하며 굿즈의 잔여 수량을 알 수 있다.<br>
+- product_status를 통해 굿즈가 판매 중인지, 품절되었는지, 재고 굿즈인지 확인 가능하다.
 </details>
+<br>
 <br>
 <details>
   <summary>취소표 예매대기자 조회</summary>  
-내용
+<div align="center">
+<figure class="half">
+<img src="./img/sql_cancel_waiting_mem.png">
+</figure>
+<br/>
+</div>
+- 취소표 예매를 대기하고 있는 회원의 아이디를 조회할 수 있다.<br>
+- 예매대기자는 대기하고있는 팝업스토어의 대기 번호를 알 수 있다.<br>
 </details>
+<br>
 <br>
 <details>
   <summary>장바구니</summary>  
-내용
+<div align="center">
+<figure class="half">
+<img src="./img/sql_cart.png">
+</figure>
+<br/>
+</div>
+- 마음에 드는 재고 굿즈를 장바구니에 담을 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>장바구니 굿즈 목록</summary>  
-내용
+<div align="center">
+<figure class="half">
+<img src="./img/sql_cart_goods.png">
+</figure>
+<br/>
+</div>
+- 담아놓은 재고 굿즈의 목록을 조회할 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>커뮤니티 게시글 등록 및 조회</summary>  
@@ -289,7 +328,9 @@
 </figure>
 <br/>
 </div>
+- 커뮤니티에 게시글을 작성할 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>커뮤니티 댓글 등록 및 조회</summary>  
@@ -299,7 +340,9 @@
 </figure>
 <br/>
 </div>
+- 커뮤니티에 등록되어있는 게시글에 댓글을 작성할 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>팝업스토어 사전예매 내역 조회</summary>  
@@ -309,12 +352,21 @@
 </figure>
 <br/>
 </div>
+- 회원은 사전예매한 팝업스토어의 목록을 모아볼 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>팝업 굿즈 사전구매</summary>  
-내용
+<div align="center">
+<figure class="half">
+<img src="./img/sql_popup_customer_goods.png">
+</figure>
+<br/>
+</div>
+- 팝업을 예매한 회원은 굿즈를 사전구매 할 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>결제수단</summary>  
@@ -324,12 +376,24 @@
 </figure>
 <br/>
 </div>
+- 총 금액을 결제한다.<br>
+- 결제시각은 DB에 저장한다.
 </details>
+<br>
 <br>
 <details>
   <summary>리뷰 등록 및 조회</summary>  
-내용
+<div align="center">
+<figure class="half">
+<img src="./img/sql_review.png">
+</figure>
+<br/>
+</div>
+- 사전굿즈 구매자는 구매한 굿즈에 대한 리뷰를 등록할 수 있다.<br>
+- 리뷰는 별점등록과 코멘트로 남길 수 있다.<br>
+- 리뷰를 등록한 시각은 DB에 저장한다.<br>
 </details>
+<br>
 <br>
 <details>
   <summary>위시리스트 등록</summary>  
@@ -339,7 +403,9 @@
 </figure>
 <br/>
 </div>
+- 관심있는 팝업을 위시리스트로 등록할 수 있다.
 </details>
+<br>
 <br>
 <details>
   <summary>위시리스트 조회</summary>  
@@ -349,6 +415,7 @@
 </figure>
 <br/>
 </div>
+- 등록한 위시리스트의 목록을 조회할 수 있다.
 </details>
 <br>
 
