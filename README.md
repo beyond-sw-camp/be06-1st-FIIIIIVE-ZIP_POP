@@ -6,7 +6,7 @@
 
 <br>
 
-## 👩🏻‍💻‍ 팀원
+### 👩🏻‍💻‍ 팀원
 <br>
 
 <div align="center">
@@ -168,6 +168,177 @@
 
 ---
 
+
+### 🛠 재난 복구 계획
+<br>
+##### 예상 장애 발생 지점  
+&nbsp;&nbsp;&nbsp;&nbsp; - 특정 시간대에 트래픽이 몰리는 경우  
+&nbsp;&nbsp;&nbsp;&nbsp; - 예약 대기 중 장애  
+&nbsp;&nbsp;&nbsp;&nbsp; - 결제 진행 중 장애  
+<br>
+##### 시스템 구성
+&nbsp;&nbsp;&nbsp;&nbsp; 해당 서비스는 특정 시간대별로 트래픽이 몰릴 수밖에 없는 특징이 있고, 인기 있는 팝업스토어의 사전예약 같은 경우에는 과도한 트래픽이 몰리게 되어 서버 과부하로 인해 다운될 가능성이 있습니다. 만약 결제 정보가 DB에 동기적으로 저장되지 않는다면 사용자에게 금전적 손해를 입힐 수 있다는 문제가 발생할 수 있기 때문에 갈레라 클러스터링을 통하여 정보의 동기 방식 동기화를 적용할 계획입니다.  
+
+
+<br>
+
+---
+### 🥽 SQL 실행 결과
+
+<br>
+##### 핵심 기능 성능 테스트
+<br>
+- 성능 테스트 전
+<div align="center">
+<figure class="half">
+<img src="./img/pointskill_before_test.png">
+</figure>
+<br/>
+</div>
+<br>
+- 인덱스 적용
+<div align="center">
+<figure class="half">
+<img src="./img/pointskill_index.png">
+</figure>
+<br/>
+</div>
+<br>
+- 스토어 프로시저 적용
+<div align="center">
+<figure class="half">
+<img src="./img/pointskill_storep.png">
+</figure>
+<br/>
+</div>
+
+<details>
+  <summary>고객 회원</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_customer.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>기업 회원</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_company.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>팝업스토어</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_popup_store.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>팝업스토어 굿즈</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_popup_goods.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>취소표 예매대기자 조회</summary>  
+내용
+</details>
+<br>
+<details>
+  <summary>장바구니</summary>  
+내용
+</details>
+<br>
+<details>
+  <summary>장바구니 굿즈 목록</summary>  
+내용
+</details>
+<br>
+<details>
+  <summary>커뮤니티 게시글 등록 및 조회</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_posts.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>커뮤니티 댓글 등록 및 조회</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_comment.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>팝업스토어 사전예매 내역 조회</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_popup_customer.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>팝업 굿즈 사전구매</summary>  
+내용
+</details>
+<br>
+<details>
+  <summary>결제수단</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_payment.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>리뷰 등록 및 조회</summary>  
+내용
+</details>
+<br>
+<details>
+  <summary>위시리스트 등록</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_wishlist.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+<details>
+  <summary>위시리스트 조회</summary>  
+<div align="center">
+<figure class="half">
+<img src="./img/sql_wish_popup.png">
+</figure>
+<br/>
+</div>
+</details>
+<br>
+
+---
 
 ### 💻 기술 스택
 
